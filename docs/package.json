@@ -5,7 +5,7 @@
     "generate": "nuxt generate"
   },
   "devDependencies": {
-    "docus": "0.1.5",
+    "docus": "0.4.1",
     "nuxt-edge": "2.16.0-27014412.a53fd32d",
     "vue-plausible": "1.1.4"
   }
